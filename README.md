@@ -1,6 +1,7 @@
 # Proyecto DevOps - Evaluación Parcial 1
 
-La finalidad de este repositorio es implementar un flujo de trabajo colaborativo y automatizado.
+La finalidad de este repositorio es implementar un flujo de trabajo
+colaborativo y automatizado.
 
 ## Estrategia de Ramificación
 
@@ -20,7 +21,8 @@ Se decidió utilizar el método Trunk-Based Development ya que:
 
 - Se trabaja en las ramas `feature/ejemplo` o `hotfix/ejemplo`.
 - Se realiza Pull Request hacia `develop`.
-- Al tener una versión estable, se hace Pull Request desde `develop` hacia `main`.
+- Al tener una versión estable, se hace Pull Request desde `develop`
+  hacia `main`.
 
 ## Naming de Ramas
 

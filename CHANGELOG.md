@@ -1,4 +1,4 @@
-# Registro de cambios
+# Registro de Cambios
 
 ## [1.0.0]
 

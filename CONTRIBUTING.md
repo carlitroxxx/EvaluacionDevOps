@@ -1,6 +1,6 @@
-# Guía de contribución
+# Guía de Contribución
 
-## Reglas de colaboración
+## Reglas de Colaboración
 
 ### Flujo de trabajo
 
@@ -13,11 +13,11 @@
 
 ### Convenciones de Commits
 
-- Usar prefijos:
+- Usar prefijos según el tipo de cambio:
   - `feat:` → nueva funcionalidad.
   - `fix:` → correcciones.
   - `docs:` → documentación.
 
-### Reglas de código
+### Reglas de Código
 
 - Documentar cambios significativos en `README.md` o `CHANGELOG.md`.
