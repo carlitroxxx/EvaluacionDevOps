@@ -6,6 +6,7 @@ colaborativo y automatizado.
 ## Estrategia de Ramificación
 
 Se decidió utilizar el método Trunk-Based Development ya que:
+
 - Es recomendado para proyectos de corto alcance y pocos archivos (como es este caso).
 - Permite trabajar de manera simple, ágil y directa sobre la rama `main`.
 
@@ -13,6 +14,7 @@ Se decidió utilizar el método Trunk-Based Development ya que:
 
 - Mensajes claros y en tiempo real.
 - Prefijos según el tipo de cambio:
+
   - `feat:` → para nuevas funcionalidades.
   - `hot:` → para correcciones.
   - `docs:` → documentación.
