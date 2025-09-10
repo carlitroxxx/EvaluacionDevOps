@@ -52,4 +52,3 @@ Aprendí la importancia de trabajar con versiones controladas y de no realizar
 cambios directamente a la rama principal. 
 Además, reforcé buenas prácticas en la documentación 
 y el flujo de trabajo colaborativo.
-
