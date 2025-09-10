@@ -5,9 +5,10 @@ on:
     branches: [develop]
   pull_request:
     branches: [main]
+
 jobs:
   markdownlint:
-    runs_on: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
