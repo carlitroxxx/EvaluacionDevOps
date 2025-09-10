@@ -1,5 +1,7 @@
 # Proyecto DevOps - Evaluación Parcial 1
 
+## Integrante: Carlos Moil Alvarado
+
 La finalidad de este repositorio es implementar un flujo de trabajo
 colaborativo y automatizado.
 
