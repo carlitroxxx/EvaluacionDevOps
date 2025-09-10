@@ -40,13 +40,13 @@ Se decidió utilizar el método Trunk-Based Development ya que:
 
 ## Declaración uso de IA
 
-- Se utilizó ChatGPT para arreglar errores de identación 
+- Se utilizó ChatGPT para arreglar errores de indentación
 en archivos .md y redacción de documentos.
 
 ## Reflexión individual
 
-- Fue un proyecto bastante entretenido, que me ayudó a 
+- Fue un proyecto bastante entretenido, que me ayudó a
 entender mejor los comandos en GIT.
 
-- También me ayudo a entender la gestión de ramas y la importancia de las 
+- También me ayudó a entender la gestión de ramas y la importancia de las
 versiones y de no realizar todo directamente en la rama principal.
